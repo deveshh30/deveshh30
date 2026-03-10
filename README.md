@@ -1,16 +1,117 @@
 ## Hi there 👋
 
-<!--
-**deveshh30/deveshh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Devesh 👋
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer  
+🎓 Engineering Student  
+🚀 Currently building projects and preparing for internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently workin with  **React, Node.js, SQL, and Data Structures**
+- 🛠 Working on **Full Stack Web Applications**
+- 🎯 Goal: Become a **Full Stack Developer & get internship experience**
+- 📚 Interested in **Web Development, Backend Systems, and Data Engineering**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+
+### Frontend
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- Mongo DB
+- 
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Projects
+
+### 1. Goal Tracker App (COGNIFLOW)
+A productivity web application that helps users track goals and monitor progress.
+
+**Tech Stack:**  
+React, Node.js, Express, MongoDB
+
+**Features**
+- User authentication
+- Create and manage goals
+- Track goal completion progress
+- Dashboard for analytics
+
+🔗 GitHub Repository:  
+https://github.com/deveshh30/COGNIFLOW
+
+🔗 Live Demo:  
+(Add deployment link)
+
+---
+
+### 2. Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+**Tech Stack:**  
+React, Tailwind CSS ,Javascript
+
+**Features**
+- Responsive design
+- Projects showcase
+- Contact section
+
+🔗 GitHub Repository:  
+https://github.com/deveshh30/PORTFOLIO
+
+🔗 Live Demo:  
+(Add deployment link)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshh30&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshh30&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deveshh30&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deveshh30&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Portfolio: https://your-portfolio-link.com
+- Email: devesh30gupta.gmail@example.com
+
+---
+
+⭐️ From [deveshh30https://github.com/deveshh30)
