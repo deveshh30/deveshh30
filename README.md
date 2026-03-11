@@ -62,8 +62,8 @@ React, Node.js, Express, MongoDB
 🔗 GitHub Repository:  
 https://github.com/deveshh30/COGNIFLOW
 
-🔗 Live Demo:  
-(Add deployment link)
+🔗 Live Demo:
+https://cogniflow-self.vercel.app/login
 
 ---
 
