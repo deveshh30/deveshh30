@@ -1,8 +1,6 @@
-## Hi there 👋
-
 # Hi, I'm Devesh 👋
 
-💻 Aspiring Full Stack Developer  
+💻 Full Stack Developer  
 🎓 Engineering Student  
 🚀 Currently building projects and preparing for internships
 
@@ -82,7 +80,7 @@ React, Tailwind CSS ,Javascript
 https://github.com/deveshh30/PORTFOLIO
 
 🔗 Live Demo:  
-(Add deployment link)
+https://portfolio-topaz-seven-38.vercel.app
 
 ---
 
@@ -108,9 +106,9 @@ https://github.com/deveshh30/PORTFOLIO
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Portfolio: https://your-portfolio-link.com
-- Email: devesh30gupta.gmail@example.com
+- LinkedIn: https://www.linkedin.com/in/devesh-gupta30/
+- Portfolio:https://portfolio-topaz-seven-38.vercel.app
+- Email: devesh30gupta@gmail.com
 
 ---
 
